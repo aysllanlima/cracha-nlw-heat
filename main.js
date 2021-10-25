@@ -29,4 +29,4 @@ function getGitHubProfileInfos(){
   })
 }
 
-SgetGitHubProfileInfos();
+getGitHubProfileInfos();
